@@ -20,7 +20,7 @@ app.post("/bfhl", (req, res) => {
     }
 
     const user_id = "isam_abdul_aziz_26042004";
-    const email = "isamabdul.aziz2022@vitstudent.ac.in";
+    const email = "isamaziz256@gmail.com";
     const roll_number = "22BKT0103";
 
     const odd_numbers = [];
